@@ -24,3 +24,6 @@ body {
   width: 360px;
   height: 200px;
 }
+:hover.gallery-image {
+  transform: scale(1.04);
+}
